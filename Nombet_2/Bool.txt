@@ -1,0 +1,13 @@
+start: 0
+end: 4
+0 t 1
+1 r 2
+2 u 3
+3 e 4
+start: 0
+end: 5
+0 f 1
+1 a 2
+2 l 3
+3 s 4
+4 e 5

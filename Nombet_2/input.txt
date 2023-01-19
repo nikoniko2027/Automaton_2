@@ -1,0 +1,5 @@
+Bool 2
+Id 1
+Keywords 2
+Operator 1
+Whitespace 1

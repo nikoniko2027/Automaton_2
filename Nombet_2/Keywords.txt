@@ -1,0 +1,38 @@
+start: 0
+end: 5
+0 w 1
+1 h 2
+2 i 3
+3 l 4
+4 e 5
+start: 0
+end: 3
+0 f 1
+1 o 2
+2 r 3
+start: 0
+end: 2
+0 d 1
+1 o 2
+start: 0
+end: 2
+0 i 1
+1 f 2
+start: 0
+end: 4
+0 e 1
+1 l 2
+2 s 3
+3 e 4
+start: 0
+end: 3
+0 t 1
+1 r 2
+2 y 3
+start: 0
+end: 5
+0 c 1
+1 a 2
+2 t 3
+3 c 4
+4 h 5
